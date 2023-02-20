@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from transmission_rpc import Client
 from os import environ
 
